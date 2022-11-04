@@ -1,5 +1,4 @@
-﻿//using System.Threading;
-using System;
+﻿using System;
 
 void SayHelloRu()
 {
@@ -29,6 +28,8 @@ Console.WriteLine("Введите язык для приветствия");
 SelLang();
 Console.WriteLine();
 string? language = Console.ReadLine();
+Thread.Sleep(1000);
+Console.WriteLine();
 switch (language)
 {
     case "2":

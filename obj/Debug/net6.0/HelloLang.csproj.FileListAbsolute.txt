@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Код VS\ConsoleApp1\bin\Debug\net6.0\HelloLang.exe
+C:\Users\User\Desktop\Код VS\ConsoleApp1\bin\Debug\net6.0\HelloLang.deps.json
+C:\Users\User\Desktop\Код VS\ConsoleApp1\bin\Debug\net6.0\HelloLang.runtimeconfig.json
+C:\Users\User\Desktop\Код VS\ConsoleApp1\bin\Debug\net6.0\HelloLang.dll
+C:\Users\User\Desktop\Код VS\ConsoleApp1\bin\Debug\net6.0\ref\HelloLang.dll
+C:\Users\User\Desktop\Код VS\ConsoleApp1\bin\Debug\net6.0\HelloLang.pdb
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\HelloLang.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\HelloLang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\HelloLang.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\HelloLang.AssemblyInfo.cs
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\HelloLang.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\HelloLang.dll
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\ref\HelloLang.dll
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\HelloLang.pdb
+C:\Users\User\Desktop\Код VS\ConsoleApp1\obj\Debug\net6.0\HelloLang.genruntimeconfig.cache
